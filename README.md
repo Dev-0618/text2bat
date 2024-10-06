@@ -44,7 +44,7 @@ To set up and use the `text2bat` tool, follow these steps:
    To start using the `text2bat` tool, run the following command:
 
    ```bash
-   python enhanced_bat_script_builder_with_suboptions.py
+   python3 text2bat.py
    ```
 
 ## Usage
