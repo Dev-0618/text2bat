@@ -4,6 +4,9 @@
 #| __/ _ \ \/ / __| __) | '_ \ / _` | __|
 #| ||  __/>  <| |_ / __/| |_) | (_| | |_ 
 # \__\___/_/\_\\__|_____|_.__/ \__,_|\__|
+[![An image of @dev0618's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dev0618)](https://holopin.io/@dev0618)
+
+
 `text2bat` is a customizable Python tool designed to help web penetration testers convert normal text commands into batch (BAT) scripts efficiently. This tool offers an interactive interface for users to select various operations and generate BAT scripts quickly, making it a valuable addition to the toolkit of any pentester.
 
 ## Features
