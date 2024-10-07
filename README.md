@@ -1,9 +1,4 @@
 # text2bat
-#_            _   ____  _           _   
-#| |_ _____  _| |_|___ \| |__   __ _| |_ 
-#| __/ _ \ \/ / __| __) | '_ \ / _` | __|
-#| ||  __/>  <| |_ / __/| |_) | (_| | |_ 
-# \__\___/_/\_\\__|_____|_.__/ \__,_|\__|
 [![An image of @dev0618's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dev0618)](https://holopin.io/@dev0618)
 
 
