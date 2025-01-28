@@ -113,10 +113,6 @@ Upon running the script, you will be presented with a menu of options. You can c
 
 Contributions to the `text2bat` project are welcome! If you have suggestions for improvements or new features, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Special thanks to the community and resources that helped in the development of this tool. Happy scripting!
